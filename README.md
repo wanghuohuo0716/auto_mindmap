@@ -2,8 +2,7 @@
 
 仓库目录结构：
 
-![结构](https://github.com/wanghuohuo0716/auto_mindmap/tree/main/image/repo.png)
-
+![结构](https://github.com/wanghuohuo0716/auto_mindmap/blob/main/image/repo.png)
 
 
 **展示的成果图** 
@@ -12,28 +11,28 @@
 
 本地文件
 
-![结构](https://github.com/wanghuohuo0716/auto_mindmap/tree/main/image/xmind_local.png)
+![结构](https://github.com/wanghuohuo0716/auto_mindmap/blob/main/image/xmind_local.png)
 
 
 
 简书
 
-![结构](https://github.com/wanghuohuo0716/auto_mindmap/tree/main/image/xmind_jianshu.png)
+![结构](https://github.com/wanghuohuo0716/auto_mindmap/blob/main/image/xmind_jianshu.png)
 
 
 
 印象笔记
 
-![结构](https://github.com/wanghuohuo0716/auto_mindmap/tree/main/image/xmind_yinxiang.png)
+![结构](https://github.com/wanghuohuo0716/auto_mindmap/blob/main/image/xmind_yinxiang.png)
 
 # 坚果云
 
 简书
 
-![结构](https://github.com/wanghuohuo0716/auto_mindmap/tree/main/image/jianguoyun_jianshu.png)
+![结构](https://github.com/wanghuohuo0716/auto_mindmap/blob/main/image/jianguoyun_jianshu.png)
 
 
 
 印象笔记
 
-![结构](https://github.com/wanghuohuo0716/auto_mindmap/tree/main/image/jianguoyun_yinxiang.png)
+![结构](https://github.com/wanghuohuo0716/auto_mindmap/blob/main/image/jianguoyun_yinxiang.png)
