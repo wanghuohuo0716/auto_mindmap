@@ -22,8 +22,11 @@ from evernote.api.client import EvernoteClient
 from evernote.edam.notestore.ttypes import NoteFilter
 from evernote.edam.type.ttypes import NoteSortOrder
 from evernote.edam.notestore.ttypes import NotesMetadataResultSpec
+
 # auth_token申请地址：https://dev.yinxiang.com/doc/articles/dev_tokens.php
-auth_token = "xxx"
+
+auth_token = "S=s21:U=c4d4d3:E=176dafa194e:C=176b6ed9440:P=1cd:A=en-devtoken:V=2:H=6bdfced1452b4024c77c76b73c2beff3"
+
 
 
 
@@ -284,7 +287,6 @@ def gen_xmind(xmind_filename):
 
     # 根据需求创建xmind文件内的具体内容
     newZip.write("content.json", compress_type=zipfile.ZIP_DEFLATED)
-    os.remove("content.json")
 
     newZip.close()
 

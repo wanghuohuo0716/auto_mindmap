@@ -88,7 +88,6 @@ def gen_xmind(xmind_filename):
 
     # 根据需求创建xmind文件内的具体内容
     newZip.write("content.json", compress_type=zipfile.ZIP_DEFLATED)
-    os.remove("content.json")
 	
     newZip.close()
 
