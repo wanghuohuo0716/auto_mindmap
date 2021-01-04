@@ -23,7 +23,7 @@
 
 印象笔记
 
-![结构](https://github.com/wanghuohuo0716/auto_mindmap/blob/main/image/xmind_yinxiang.png)
+![结构](https://github.com/wanghuohuo0716/auto_mindmap/blob/main/image/xmind_yinxiang.PNG)
 
 # 坚果云
 
