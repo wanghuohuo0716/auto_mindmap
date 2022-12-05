@@ -25,7 +25,7 @@ from evernote.edam.notestore.ttypes import NotesMetadataResultSpec
 
 # auth_token申请地址：https://dev.yinxiang.com/doc/articles/dev_tokens.php
 
-auth_token = "S=s21:U=c4d4d3:E=176dafa194e:C=176b6ed9440:P=1cd:A=en-devtoken:V=2:H=6bdfced1452b4024c77c76b73c2beff3"
+auth_token = "xxxxx"
 
 
 
